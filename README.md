@@ -1,4 +1,4 @@
-Use Qt5 and C++17 to build the project
+#### Use Qt5 and C++17 to build the project
 ***
 Для корректной работы сначала необходимо запустить сервер, далее подключать клиентов
 
